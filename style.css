@@ -1,0 +1,14 @@
+#vizbody {
+	padding-left:40px;
+	padding-top:40px;
+	background-color:#fefefe;
+}
+
+.header {
+	font-family:sans-serif;
+	font-size:14px;
+}
+
+#datatable {
+	margin-top:40px;
+}
